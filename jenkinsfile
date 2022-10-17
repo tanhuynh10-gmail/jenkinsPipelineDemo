@@ -24,7 +24,7 @@ pipeline {
         }
         stage('Release') {
             steps {
-                echo 'Releasing'
+                echo 'Releasing 2022'
             }
         }
     }
